@@ -1,0 +1,42 @@
+body{
+    background-image: url(https://springboard-cdn.appadvice.com/wp-content/appadvice-v2-media/2016/11/Netflix-background_860c8ece6b34fb4f43af02255ca8f225-xl.jpg);
+    background-repeat: no-repeat;
+}
+#frm{
+    background-color: black;
+    width: 25%;
+    height: 380px;
+    border-radius: 10px;
+    border: none;
+}
+#nm{
+    height: 100px;
+    width: 100px;
+    background-position: top;
+}
+h1{
+    color: white;
+    background-position: left;
+    margin: 20px;
+}
+
+#lb{
+    color: rgb(248, 244, 244);
+    background-color: rgb(50, 44, 44);
+    height: 30px;
+    border: none;
+    border-radius: 4px;
+    margin: 5px;
+    width: 70%;
+}
+#btn{
+color: white;
+background-color: red;
+border: none;
+border-radius: 5px;
+width: 70%;
+height: 30px;
+}
+table{
+width: 80%;
+}
